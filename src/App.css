@@ -1,0 +1,28 @@
+.active {
+    border-bottom: 3px solid rgb(60, 138, 255);
+    border-radius: 35%;
+    font-weight: bold;
+    background: linear-gradient(90deg, #ff00d4, #bf00b5);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-border-radius: 35%;
+    -moz-border-radius: 35%;
+    -ms-border-radius: 35%;
+    -o-border-radius: 35%;
+}
+
+a{
+    text-decoration: none;
+    color: black !important;
+}
+body{
+    margin: 3px;
+    overflow-x: hidden;
+}
+
+
+
+.imgProd{
+    height:70%;
+    width: 100%;
+}

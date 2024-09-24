@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+  }
+  
+  .page-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .content-wrap {
+    flex: 1;
+  }
+  
+  .footer {
+    background-color: #dc3545; /* same as bg-danger in Bootstrap */
+  }
